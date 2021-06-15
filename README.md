@@ -13,5 +13,5 @@ so make sure to have a back-up
 # KALI LINUX
      git clone https://github.com/hari747pilot/crypto.git
      cd crypto
-     sudo pip3 install -r requirements.txt
+     sudo pip3 install -r requirement.txt
      python3 CRYPTO.py
